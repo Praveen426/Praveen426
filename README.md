@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praveen426
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning html ,oops,java
-- 💞️ I’m looking to collaborate on  
+- 💞️ I’m looking to collaborate on software company's  
 - 📫 How to reach me 2021pietcspraveen130@poornima.org
 
 <!---
